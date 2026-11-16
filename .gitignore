@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# AUBG documents and built index (not redistributed)
+data/raw/
+data/index/
+
+.idea/

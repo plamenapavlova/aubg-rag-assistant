@@ -1,0 +1,26 @@
+[
+  {
+    "filename": "undergrad_catalog_2026_27.pdf",
+    "title": "AUBG Undergraduate Catalog 2026-27 (2nd ed.)",
+    "url": "https://www.aubg.edu/wp-content/uploads/2026/09/AY-2026-27-2nd-ed.pdf",
+    "audience": "undergraduate",
+    "year": "2026-27",
+    "headings": "bookmarks"
+  },
+  {
+    "filename": "student_handbook_2025_26.pdf",
+    "title": "AUBG Student Handbook 2025-26",
+    "url" : "https://www.aubg.edu/wp-content/uploads/2025/10/AUBG-Student-Hnadbook-AY-2025-2026.pdf",
+    "audience" : "all students",
+    "year" : "2025-26",
+    "headings" : "fonts"
+  },
+  {
+    "filename": "emba_policies_cohort25.pdf",
+    "title" : "AUBG EMBA Academic Policies and Procedures, Cohort '25",
+    "url" : "https://www.aubg.edu/wp-content/uploads/2026/01/AUBG-EMBA-Graduate-Programs-Academic-Policies-Procedures-Cohort-25-January-2026.pdf",
+    "audience" : "EMBA",
+    "year": "2026",
+    "headings": "bookmarks"
+  }
+]
