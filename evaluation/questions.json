@@ -1,0 +1,83 @@
+[
+  {
+    "id": "01",
+    "type" : "answerable",
+    "question": "How many credits do i need to graduate?",
+    "answer": "at least 120 credits",
+    "source" : [{"filename":  "undergrad_catalog_2026_27.pdf", "pages":  [61]}],
+    "audience": "undergraduate"
+  },
+  {
+    "id": "02",
+    "type" : "answerable",
+    "question": "Do I have to declare my majors and minors in the first year?",
+    "answer": "Majors must be declared no later than the completion of the fourth semester at AUBG, minors may be declared at any time before graduation",
+    "source" : [{"filename":  "undergrad_catalog_2026_27.pdf", "pages":  [54, 55]}],
+    "audience": "undergraduate"
+  },
+  {
+    "id": "03",
+    "type" : "answerable",
+    "question": "Which courses are compulsory to take in order to graduate with a major in cos?",
+    "answer": ["COS 1020", "COS 1050", "COS 2021", "COS 2030", "COS 2035", "COS 3015", "COS 3060", "COS 4091"],
+    "source" : [{"filename":  "undergrad_catalog_2026_27.pdf", "pages":  [86]}],
+    "audience": "undergraduate"
+  },
+  {
+    "id": "04",
+    "type" : "unanswerable",
+    "question": "What is the canteen pricing",
+    "answer": "not found",
+    "source" : [],
+    "audience": "all students"
+  },
+   {
+    "id": "05",
+    "type" : "unanswerable",
+    "question": "What is the WI-FI password",
+    "answer": "not found",
+    "source" : [],
+    "audience": "all students"
+  },
+   {
+    "id": "06",
+    "type" : "answerable",
+    "question": "Does AUBG share my personal information?",
+    "answer": "with third parties only for the purpose of assessment, for other purposes they will ask for consent",
+    "source" : [{"filename":  "student_handbook_2025_26.pdf", "pages":  [7]}],
+    "audience": "all students"
+  },
+  {
+    "id": "07",
+    "type" : "answerable",
+    "question": "What is the purpose of SG?",
+    "answer": "representative body of the AUBG students, they seek to improve the quality of student life",
+    "source" : [{"filename":  "student_handbook_2025_26.pdf", "pages":  [9]}],
+    "audience": "all students"
+  },
+   {
+    "id": "08",
+    "type" : "answerable",
+    "question": "Is there some minimum grade I should have in the EMBA?",
+    "answer": "Minimum grade point average of 3.00 GPA and cumulative average of 3.0",
+    "source" : [{"filename":  "emba_policies_cohort25.pdf", "pages":  [3]}],
+    "audience": "EMBA"
+  },
+  {
+    "id": "09",
+    "type" : "answerable",
+    "question": "Can I skip classes in the EMBA program",
+    "answer": "Students are expected to attend classes regularly and can be withdrawn from a course if they miss classes",
+    "source" : [{"filename":  "emba_policies_cohort25.pdf", "pages":  [4]}],
+    "audience": "EMBA"
+  },
+  {
+    "id": "10",
+    "type" : "unanswerable",
+    "question": "Which are the courses that i should take for the EMBA?",
+    "answer": "not found",
+    "note": "partial info exists - 15 core + 2 elective courses should be taken - correct if it states it",
+    "source" : [],
+    "audience": "EMBA"
+  }
+]
