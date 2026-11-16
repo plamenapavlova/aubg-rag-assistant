@@ -14,7 +14,7 @@ if not OPENAI_API_KEY:
 
 #LLM settings
 LLM_MODEL = "gpt-6-luna"
-LLM_MAX_OUTPUT_TOKENS = 300
+LLM_MAX_OUTPUT_TOKENS = 1000
 LLM_MAX_WAITING_TIME = 30
 
 #Retrieval settings
